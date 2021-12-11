@@ -10,9 +10,15 @@ if () {
 printf ("Hello")
 }
 
+<<<<<<< HEAD
 //feature 1 work added
 if () {
 printf{Hello2}
 
 }
 
+//added feature2 related changes
+if ()
+{
+printf ""
+}
