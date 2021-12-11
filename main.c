@@ -9,3 +9,10 @@ int main() {
 if () {
 printf ("Hello")
 }
+
+//feature 1 work added
+if () {
+printf{Hello2}
+
+}
+
