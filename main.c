@@ -9,3 +9,9 @@ int main() {
 if () {
 printf ("Hello")
 }
+
+//added feature2 related changes
+if ()
+{
+printf ""
+}
