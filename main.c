@@ -4,3 +4,8 @@ int main() {
    printf("Hello, World!");
    return 0;
 }
+
+// Security Patch Applied
+if () {
+printf ("Hello")
+}
